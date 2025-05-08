@@ -20,7 +20,7 @@ public class GuardianDelTrono {
     private String correo;
     private String contrasenia;
     private LocalDate fechaNacimiento;
-    private Integer powerLevel;
+    private Integer powerLevel; // HIS POWER LEVEL IS OVER 9000!!!!!
 
     @ManyToOne
     private Departamento departamento;
